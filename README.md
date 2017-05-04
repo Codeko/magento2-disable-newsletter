@@ -17,7 +17,7 @@ Install Disable Newsletter for Magento2
 ##### Using Composer
 
 ```
-composer require https://github.com/Codeko/magento2-disable-newsletter.git
+composer require codeko/disablenewsletter:dev-master
 ```
 
 #### 2 - Enable Disable Newsletter
