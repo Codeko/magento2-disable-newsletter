@@ -8,7 +8,7 @@
         "Disable Newsletter Magento 2"
     ],
     "type": "magento2-module",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "license": [
         "AGPL-3.0"
     ],
